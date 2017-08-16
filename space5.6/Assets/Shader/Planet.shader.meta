@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3a228e844d55cba4bbee2c88072dc043
+timeCreated: 1462192347
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _mask: {fileID: 2800000, guid: cc8f854cfbc1bd4429997afb6e7b547e, type: 3}
+  - _Sunalbedo: {fileID: 2800000, guid: fd527f070ef46b843b28d178b92373b5, type: 3}
+  - _node_7366: {fileID: 2800000, guid: 3ca46945720e70b4bb9aa58fb1613d84, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
